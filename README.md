@@ -10,10 +10,11 @@ Welcome! This portfolio contains links to selected projects from my GitHub.
 - [AgencyTask_MatLab](https://github.com/beaverjuly/AgencyTask_MatLab)
 
 ## Database Design & Data Analysis Projects
-- [Exam 2 – Database Design (Spring 2024)](https://github.com/dbdesign-students-spring2024/exam-2-beaverjuly)
-- [Pandas Exploration Assignment](https://github.com/dbdesign-students-spring2024/8-pandas-exploration-beaverjuly)
-- [Web App Project](https://github.com/dbdesign-students-spring2024/7-web-app-beaverjuly)
-
+- [2 – Data Munging](https://github.com/dbdesign-students-spring2024/2-data-munging-beaverjuly)
+- [4 – SQL CRUD](https://github.com/dbdesign-students-spring2024/4-sql-crud-beaverjuly)
+- [6 – MongoDB Analysis](https://github.com/dbdesign-students-spring2024/6-mongodb-analysis-beaverjuly)
+- [7 – Web App](https://github.com/dbdesign-students-spring2024/7-web-app-beaverjuly)
+- [8 – Pandas Exploration](https://github.com/dbdesign-students-spring2024/8-pandas-exploration-beaverjuly)
 ---
 
 Feel free to explore the repositories above. Each project includes a description of the context, my contributions, and relevant code.
